@@ -1,6 +1,6 @@
 # CommerceCrafter
 
-PHP eCommerce platform with user and admin CRUD functionalities, facilitating seamless online selling and management of products, orders, and user accounts.
+CommerceCrafter is a PHP eCommerce platform with robust user and admin CRUD functionalities, facilitating seamless online selling and management of products, orders, and user accounts.
 
 ### Key Features
 
@@ -15,16 +15,15 @@ PHP eCommerce platform with user and admin CRUD functionalities, facilitating se
 
 ### Technology
 
-This project is built on PHP and uses file storage for managing data, combining simplicity with effective performance.
+This project is built on PHP and utilizes file storage for managing data, combining simplicity with effective performance.
 
 ### Code Structure
 
-The backend is powered entirely by PHP, leveraging file storage for data handling which simplifies the setup and reduces the need for complex database management.
+The backend is powered entirely by PHP, leveraging file storage for data handling, which simplifies the setup and reduces the need for complex database management.
 
 ### Getting Started
 
-Follow these steps to set up and run CommerceCrafter on your local machine:
-To get started with the project, follow these steps:
+To get started with CommerceCrafter, follow these steps:
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
 3. Open the project in your preferred code editor.
@@ -36,7 +35,10 @@ To get started with the project, follow these steps:
 - **Users**: Browse and buy products, view and manage your orders.
 - **Admins**: Access comprehensive tools for product, user, and order management.
 
+### Additional Documentation
+
+For more detailed information, please refer to the accompanying PDF documentation included in the project files.
+
 ### Thank You
 
 Thank you for choosing CommerceCrafter for your eCommerce needs!
-
